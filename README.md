@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://abishekponmudi.github.io/Abishek.site/images/sentinaledr.png" alt="Sential EDR">
+  <img src="https://github.com/NemanjaRadosavljevic877/SentinelEDR/blob/main/images/SentinelEDR_Logo.png" alt="Sential EDR">
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ The system follows a client-server architecture to efficiently handle the proces
 
 ### Architecture Diagram
 <p align="center">
-  <img src="https://github.com/AbishekPonmudi/Sential_EDR-Endpoint-Detection-and-Response/blob/master/playbooks-crowd-strike-falcon---true-positive-incident-handling-__-doc_files-CrowdStrike_Falcon_-_True_Positive_Incident_Handling-cdf042f55c5b373b5777d4737ffe0a61.jpg?raw=true" alt="Sential EDR">
+  <img src="https://github.com/NemanjaRadosavljevic877/SentinelEDR/blob/main/wesng/demo.gif" alt="Sential EDR">
 </p>
 
 ## Project Workflow
@@ -188,8 +188,6 @@ First it generate the system information from the windows using the windows API 
 ## GitHub Repository
 The source code for this project is available on GitHub. Visit the repository to explore the codebase, contribute to the project, or report issues:
 
-- **GitHub Repository:** [Link to Your Repository](https://github.com/abishekponmudi/threat-intelligence-platform)
-
 ## Conclusion and Future Work
 The Custom EDR Solution is a powerful tool designed to provide comprehensive protection against a wide range of cyber threats. By integrating advanced detection techniques, leveraging malware analysis research, and adopting a modular and scalable design, the solution is well-suited to meet the security needs of modern organizations.
 
@@ -199,6 +197,3 @@ The Custom EDR Solution is a powerful tool designed to provide comprehensive pro
 - **Support for Additional Operating Systems:** Expand the solution to support additional operating systems, such as Linux and macOS.
 - **User-Friendly Dashboard:** Create a web-based dashboard for monitoring and managing endpoints, viewing alerts, and generating reports.
 
----
-
-Feel free to contribute and collaborate! If you have any questions about the modules or code, or if you'd like to understand what's going on, please contact me on [X.com](https://x.com/Havox03).

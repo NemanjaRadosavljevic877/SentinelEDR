@@ -1,4 +1,4 @@
-// written and tested by havox @cp OG
+// written and tested by Nemanja @cp OG
 
 // this tool enum the file and scan with IOC of hashes to find any malicious files
 

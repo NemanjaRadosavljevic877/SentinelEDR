@@ -9,7 +9,7 @@ blocked_port = []
 blocked_ip = []
 blocked_host = ["www.youtube.com"]
 blocked_domains = ["gemini.google.com","sydney.bing.com","copilot.microsoft.com","ads.google.com","googleads.g.doubleclick.net"]
-blocked_paths = ["/ads","/watch?v=oPsxy9JF8FM","/@havox_cybernet","search?q=hacker","/search?pglt=171&q=how+to+hack","/search?q=how+to+hack","/youtubei","/watch?v"]    
+blocked_paths = ["/ads","/watch?v=oPsxy9JF8FM","/@Nemanja_cybernet","search?q=hacker","/search?pglt=171&q=how+to+hack","/search?q=how+to+hack","/youtubei","/watch?v"]    
 
 proxy_enabled = False  
 

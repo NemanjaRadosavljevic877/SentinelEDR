@@ -1,4 +1,4 @@
-/* Written by Havox */
+/* Written by Nemanja */
 
 // This code Does to enumerate all the  running Process and also the imported Modules 
 // along with the imported API, DLL dynamically via Syscall or sysenter and IAT from Import_Descriptor_Table from PE

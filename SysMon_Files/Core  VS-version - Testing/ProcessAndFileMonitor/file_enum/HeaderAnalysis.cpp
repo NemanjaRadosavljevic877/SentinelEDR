@@ -1,4 +1,4 @@
-﻿// Writtten an tested by havox
+﻿// Writtten an tested by Nemanja
 // re
 // code to analysis the malware using the stack menthods and dynamically using PE header analysis and Some string matching with YARA Rules
 

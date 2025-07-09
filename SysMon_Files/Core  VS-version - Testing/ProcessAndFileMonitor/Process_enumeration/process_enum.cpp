@@ -1,4 +1,4 @@
-/* Written by Havox */
+/* Written by Nemanja */
 
 #include <Windows.h>
 #include <Psapi.h>

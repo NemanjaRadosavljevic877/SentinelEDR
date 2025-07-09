@@ -1,5 +1,5 @@
 ﻿/*   @SentialEDR -	PEheaderanalysis  this Code Which analyse the PE structure of the file for suscipious API and imports :)
- *									  @Author : Written By @Havox :)
+ *									  @Author : Written By @Nemanja :)
 
  *    Permission is hereby granted, free of charge, to any person obtaining
  *    this piece of code, and you can deal in the Software without restriction,

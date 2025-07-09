@@ -1,6 +1,6 @@
-# # This is written by Havox@ CYberNet #
+# # This is written by Nemanja@ CYberNet #
 # # @CopyRight under MIT LICENCE #
-# # Author = "@HaVoX#"
+# # Author = "@Nemanja#"
 # # $+++++++++++++++++++++++++++++++++++++++++++++++++++++++$#
 
 # import hashlib

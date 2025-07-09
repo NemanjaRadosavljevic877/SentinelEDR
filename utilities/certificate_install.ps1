@@ -1,7 +1,7 @@
 
-# """ This code is written by havox
+# """ This code is written by Nemanja
 # # Copyrights(2024)@ Under MIT LICENSE
-#  Author = Havox """
+#  Author = Nemanja """
 
 # Certificate location
 $certlocation = "certificate.p12"

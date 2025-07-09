@@ -1,4 +1,4 @@
-// Writtent and tested by havox -> WinHttp code for Malware analysis using Online DB
+// Writtent and tested by Nemanja -> WinHttp code for Malware analysis using Online DB
 
 #pragma once
 

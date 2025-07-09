@@ -1,5 +1,5 @@
 ﻿
-// written and Tested by Havox 
+// written and Tested by Nemanja 
 // Leave the code here Just Tested Junk :( :| :)
 /*
 #include <iostream>

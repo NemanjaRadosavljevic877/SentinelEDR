@@ -1,6 +1,6 @@
 
 /*   @SentialEDR -	Server side forwarder (HeartBeat-Core) this Code WHich initilize the initial connection :)
- *									@Author : Written By @Havox :)
+ *									@Author : Written By @Nemanja :)
 
  *    Permission is hereby granted, free of charge, to any person obtaining
  *    this piece of code, and you can deal in the Software without restriction,
